@@ -2,7 +2,7 @@
 - 👀 I’m interested in innovation
 - 🌱 I’m currently learning everything i can
 - 💞️ I’m looking to collaborate on innovative projects
-- 📫 How to reach...
+- 📫 How to reach mamtha.udaykumar@gmail.com :)
 
 <!---
 mamthaudaykumar/mamthaudaykumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
